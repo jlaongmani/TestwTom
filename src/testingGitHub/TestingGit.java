@@ -7,6 +7,7 @@ public class TestingGit {
 		
 		System.out.println("hello hello ");
 
+		System.out.println("STep 2");
 	}
 
 }
